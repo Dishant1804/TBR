@@ -6,7 +6,7 @@ A curated list of articles, books, and resources to read.
 
 | Title | Date Added | Link |
 |-------|------------|------|
-| Example Article Title | 2024-01-15 | [Read](https://example.com) |
+| You should never build CMS | 14-12-2025 | [Read](https://www.sanity.io/blog/you-should-never-build-a-cms) |
 
 ## How to Use
 
